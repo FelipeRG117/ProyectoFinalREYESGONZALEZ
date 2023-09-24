@@ -1,0 +1,182 @@
+[
+    {
+        "id": "Brownies",
+        "titulo": "Brownies 1",
+        "imagen": "./img/1.webp",
+        "categoria": {
+            "nombre": "Brownies",
+            "id": "Brownies"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Brownies",
+        "titulo": "Brownies 2",
+        "imagen": "./img/2.jpg",
+        "categoria": {
+            "nombre": "Brownies",
+            "id": "Brownies"
+        },
+        "precio": 80
+    },
+    {
+        "id": "Brownies",
+        "titulo": "Brownies 3",
+        "imagen": "./img/1.webp",
+        "categoria": {
+            "nombre": "Brownies",
+            "id": "Brownies"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Brownies",
+        "titulo": "Brownies 4",
+        "imagen": "./img/2.jpg",
+        "categoria": {
+            "nombre": "Brownies",
+            "id": "Brownies"
+        },
+        "precio": 80
+    },
+    {
+        "id": "Brownies",
+        "titulo": "Brownies 5",
+        "imagen": "./img/2.jpg",
+        "categoria": {
+            "nombre": "Brownies",
+            "id": "Brownies"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Moffins",
+        "titulo": "Moffins 1",
+        "imagen": "./img/1.webp",
+        "categoria": {
+            "nombre": "Moffins",
+            "id": "Moffins"
+        },
+        "precio": 150
+    },
+    {
+        "id": "Moffins",
+        "titulo": "Moffins 2",
+        "imagen": "./img/2.jpg",
+        "categoria": {
+            "nombre": "Moffins",
+            "id": "Moffins"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Moffins",
+        "titulo": "Moffins 3",
+        "imagen": "./img/1.webp",
+        "categoria": {
+            "nombre": "Moffins",
+            "id": "Moffins"
+        },
+        "precio": 150
+    },
+    {
+        "id": "Moffins",
+        "titulo": "Moffins 4",
+        "imagen": "./img/2.jpg",
+        "categoria": {
+            "nombre": "Moffins",
+            "id": "Moffins"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Moffins",
+        "titulo": "Moffins 5",
+        "imagen": "./img/1.webp",
+        "categoria": {
+            "nombre": "Moffins",
+            "id": "Moffins"
+        },
+        "precio": 150
+    },
+    {
+        "id": "Moffins",
+        "titulo": "Moffins 6",
+        "imagen": "./img/2.jpg",
+        "categoria": {
+            "nombre": "Moffins",
+            "id": "Moffins"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Moffins",
+        "titulo": "Moffins 7",
+        "imagen": "./img/1.webp",
+        "categoria": {
+            "nombre": "Moffins",
+            "id": "Moffins"
+        },
+        "precio": 150
+    },
+    {
+        "id": "Moffins",
+        "titulo": "Moffins 8",
+        "imagen": "./img/2.jpg",
+        "categoria": {
+            "nombre": "Moffins",
+            "id": "Moffins"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Barras",
+        "titulo": "Barras 1",
+        "imagen": "./img/2.jpg ",
+        "categoria": {
+            "nombre": "Barras",
+            "id": "Barras"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Barras",
+        "titulo": "Barras 2",
+        "imagen": "./img/1.webp",
+        "categoria": {
+            "nombre": "Barras",
+            "id": "Barras"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Barras",
+        "titulo": "Barras 3",
+        "imagen": "./img/2.jpg ",
+        "categoria": {
+            "nombre": "Barras",
+            "id": "Barras"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Barras",
+        "titulo": "Barras 4",
+        "imagen": "./img/1.webp",
+        "categoria": {
+            "nombre": "Barras",
+            "id": "Barras"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Barras",
+        "titulo": "Barras 5",
+        "imagen": "./img/2.jpg ",
+        "categoria": {
+            "nombre": "Barras",
+            "id": "Barras"
+        },
+        "precio": 120
+    }
+]
